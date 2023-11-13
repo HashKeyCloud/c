@@ -1,6 +1,6 @@
 {
 "name": "HashQuark",
 "description": "Staking made easier!",
-"ticker": "NULL",
+"ticker": "Quark",
 "homepage": "https://hashquark.io/"
 }
